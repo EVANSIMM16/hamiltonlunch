@@ -27,10 +27,12 @@ Click the "Order Lunch" button to confirm your order.
 Order Confirmation <a name="order-confirmation"></a>
 A message box will appear, confirming the success or indicating any errors.
 If successful, the order summary will be displayed.
+
 4. Viewing the Menu <a name="viewing-the-menu"></a>
 
 Click the "View Menu" button on the main window.
 A new window will open, displaying the available menu items for drinks, entrees, sides, fruits, and extras.
+
 5. Exiting the App <a name="exiting-the-app"></a>
 
 To exit the app, click the "Exit" button on the main window.
@@ -39,3 +41,5 @@ To exit the app, click the "Exit" button on the main window.
 
 If you encounter any issues or have questions, please refer to the troubleshooting section in the provided documentation or contact support.
 Thank you for using the Hamilton Lunch App! Enjoy your meal without the hassle of waiting in line.
+
+contact email: hamiltonlunch@hseschools.org
