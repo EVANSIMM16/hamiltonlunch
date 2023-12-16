@@ -13,6 +13,7 @@ Launching the App <a name="launching-the-app"></a>
 Open a terminal or command prompt.
 Navigate to the directory containing the script (hamilton_lunch_app.py).
 Run the script by entering python hamilton_lunch_app.py.
+
 3. Placing an Order <a name="placing-an-order"></a>
 
 Entering Student Information <a name="entering-student-information"></a>
