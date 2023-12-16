@@ -1,19 +1,5 @@
 Hamilton Lunch App User Manual
 
-Table of Contents
-
-Introduction
-Getting Started
-Installation
-Launching the App
-Placing an Order
-Entering Student Information
-Selecting Lunch Items
-Choosing a Payment Method
-Order Confirmation
-Viewing the Menu
-Exiting the App
-Troubleshooting
 1. Introduction <a name="introduction"></a>
 
 Welcome to the Hamilton Lunch App! This application is designed to streamline the lunch ordering process for students in the Hamilton school district. Instead of waiting in line, students and parents can conveniently place lunch orders online.
