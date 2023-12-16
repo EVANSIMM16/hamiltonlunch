@@ -43,4 +43,4 @@ To exit the app, click the "Exit" button on the main window.
 If you encounter any issues or have questions, please refer to the troubleshooting section in the provided documentation or contact support.
 Thank you for using the Hamilton Lunch App! Enjoy your meal without the hassle of waiting in line.
 
-contact email: hamiltonlunch@hseschools.org
+Contact email: hamiltonlunch@hseschools.org
